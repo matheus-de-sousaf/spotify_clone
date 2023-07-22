@@ -1,8 +1,8 @@
-# Um clone simples da página do Spotify Premium
+# Um clone simples da página incial do Spotify Premium
 
 ## Utilizei bastante de css inline para elementos no HTML que eu não teria muitas alterações.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas:
 - HTML
 - CSS
 
