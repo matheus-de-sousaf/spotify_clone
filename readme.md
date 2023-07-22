@@ -6,7 +6,7 @@
 - HTML
 - CSS
 
-!(./assets/images_readme/spotify_01.png)
-!(./assets/images_readme/spotify_02.png)
-!(./assets/images_readme/spotify_03.png)
-!(./assets/images_readme/spotify_04.png)
+![print01](./assets/images_readme/spotify_01.png)
+![print02](./assets/images_readme/spotify_02.png)
+![print03](./assets/images_readme/spotify_03.png)
+![print04](./assets/images_readme/spotify_04.png)
