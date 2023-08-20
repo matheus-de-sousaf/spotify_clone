@@ -1,0 +1,53 @@
+@media screen and (max-width: 748px) {
+    
+    header{
+
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        padding: 0px;
+        align-items: center;
+    }
+    #logo{
+        margin: 0;
+        padding-left: 10px;
+    }
+    #list_header{
+        display: none;
+    }
+    #icone{
+        display: block;
+        margin: 0;
+        padding-right: 10px;
+    }
+    #buttons{
+        display: flex;
+        flex-direction: column;
+    }
+    #btn_02{
+        margin-top: 10px;
+    }
+    #cards{
+        display: flex;
+        flex-direction: column;
+    }
+    #boxes{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    #container_01{
+        margin-bottom: 10px;
+    }
+    #container_02{
+        margin-bottom: 10px;
+    }
+    #container_03{
+        margin-bottom: 10px;
+    }
+    #container_04{
+        margin-bottom: 10px;
+    }
+   
+  } 

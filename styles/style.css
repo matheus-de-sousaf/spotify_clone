@@ -28,6 +28,10 @@ header {
     list-style: none;
 }
 
+#icone{
+    display: none;
+}
+
 li {
     margin-right: 30px;
 }
@@ -99,6 +103,11 @@ section {
     margin-bottom: 75px;
 }
 
+#boxes{
+    display: flex; 
+    flex-direction: row;
+}
+
 .card {
     display: flex;
     flex-direction: column;
@@ -145,7 +154,7 @@ h2 {
 }
 #sec_boxes{
     background-color: #efefef;
-    height: 1127px;
+    height: 100%px;
 }
 #logotipo_visa {
     width: 29px;
